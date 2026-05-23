@@ -6,3 +6,5 @@ Eurorack adaption of an original kosmo module by instructables.com/member/ljbrac
 Current Status:
 Hardware - finished.
 Software - almost finished.
+
+NOTE! If anyone wants to build this, please post a pull request or whatever they are here and I will dig up the latest firmware. 
